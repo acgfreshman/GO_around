@@ -92,7 +92,6 @@ func handlerSearch(w http.ResponseWriter, r *http.Request) {
 		panic(err)
 		return
 	}
-
 	// Define geo distance query as specified in
 	// https://www.elastic.co/guide/en/elasticsearch/reference/5.2/query-dsl-geo-distance-query.html
 	q := elastic.NewGeoDistanceQuery("location")

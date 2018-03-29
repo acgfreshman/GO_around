@@ -17,7 +17,9 @@
       <root url="file://C:/Go/src/compress" />
       <root url="file://C:/Go/src/io" />
       <root url="file://C:/Go/src/testing" />
+      <root url="file://$USER_HOME$/go/src/gopkg.in" />
       <root url="file://C:/Go/src/index" />
+      <root url="file://$USER_HOME$/go/src/github.com" />
       <root url="file://C:/Go/src/archive" />
       <root url="file://C:/Go/src/sort" />
       <root url="file://C:/Go/src/encoding" />
@@ -64,7 +66,9 @@
       <root url="file://C:/Go/src/compress" />
       <root url="file://C:/Go/src/io" />
       <root url="file://C:/Go/src/testing" />
+      <root url="file://$USER_HOME$/go/src/gopkg.in" />
       <root url="file://C:/Go/src/index" />
+      <root url="file://$USER_HOME$/go/src/github.com" />
       <root url="file://C:/Go/src/archive" />
       <root url="file://C:/Go/src/sort" />
       <root url="file://C:/Go/src/encoding" />
