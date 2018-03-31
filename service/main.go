@@ -32,7 +32,7 @@ const (
 	PROJECT_ID = "avian-mystery-199302"
 	BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://35.185.58.172:9200"
+	ES_URL = "http://35.190.157.17:9200"
 )
 
 
